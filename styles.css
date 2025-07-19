@@ -1,0 +1,15 @@
+footer {
+  background-color: #343a40;
+  font-size: 1rem;
+}
+
+#alertButton {
+  font-weight: bold;
+  border: 2px solid #ffc107;
+}
+
+.img-small {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+}
